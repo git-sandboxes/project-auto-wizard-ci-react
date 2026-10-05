@@ -24,7 +24,7 @@ env:
   NODE_VERSION: "20.15.0"
   ENV_FILE: ".env"
   # Subdirectory of this project in a monorepo ('.' means always verify)
-  PROJECT_PATH: "."
+  PROJECT_PATH: "client"
 
 permissions:
   contents: read
